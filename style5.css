@@ -1,0 +1,11 @@
+ul
+{
+    list-style-type:none;
+    border-color: red;
+    border-style: solid;
+    padding-left: 0px;
+}
+ol
+{
+    list-style-image: url("messi2.jpg");
+}

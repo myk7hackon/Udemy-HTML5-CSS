@@ -16,3 +16,7 @@ p{
     padding: 10px;
     border-style:solid;
 }
+span
+{
+    color: yellow;
+}

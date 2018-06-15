@@ -1,0 +1,26 @@
+div{
+    color: red;
+    padding: 40px;
+    border-style: groove;
+}
+.para1
+{
+    color: red;
+    padding: 20px;
+    border-style: solid;
+    border-color: cyan;
+}
+.para2
+{
+    color: green;
+    padding: 20px;
+    border-style: dashed;
+    border-color: cyan;
+}
+#para3
+{
+    color:greenyellow;
+    padding: 20px;
+    border-style:dotted;
+    border-color: cyan;
+}
