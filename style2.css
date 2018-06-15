@@ -1,0 +1,21 @@
+h1{
+background-color: ghostwhite;
+color:darkred;
+font-weight: lighter;
+text-align: center;
+}
+p
+{
+    text-indent: 30px;
+    background-color: ghostwhite;
+}
+body
+{
+    background-image: url("messi.jpg");
+    background-repeat:repeat-x;
+    background-position:50% 100px;
+}
+img
+{
+    
+}
