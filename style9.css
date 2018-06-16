@@ -1,0 +1,36 @@
+#para1
+{
+    position: relative;
+    top:30px;
+    left:115px;
+    width:350px;
+    height:175px;
+    border-style: solid;
+    border-color: red;
+    padding:5px;
+    text-indent: 10px;
+}
+#para2
+{
+    position: relative;
+    top:60px;
+    left:75px;
+    width:350px;
+    height:175px;
+    border-style: solid;
+    border-color: blue;
+    padding:5px;
+     text-indent: 10px;
+}
+#para3
+{
+    position: relative;
+    top:90px;
+    left:15px;
+    width:350px;
+    height:175px;
+    border-style: solid;
+    border-color: green;
+    padding:5px;
+     text-indent: 10px;
+}
