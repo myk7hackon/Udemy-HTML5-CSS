@@ -4,6 +4,10 @@
     <title>
     Form Page
     </title>
+    <style type="text/css">
+    body
+    { background-color: cornflowerblue;
+        }</style>
     <link rel="stylesheet" type="text/css" href=style11.css>
           </head>
     <body>
@@ -20,7 +24,7 @@
         Male:<input type="radio" name="Male" value="male">
             <br/>
         Female:<input type="radio" name="Male" value="female">
-        <p>Select your order</p>
+        <h3>Select your order</h3>
             <ul>
             <li>Chicken<input type="checkbox" name="chicken" value ="chicken"></li>
             <li>Mutton<input type="checkbox" name="mutton" value ="mutton"></li>
@@ -32,6 +36,28 @@
             <br/>
             <br/>
             <input type="button" name="Button" value="Place Order">
+            <h3>Select your payment Option</h3>
+            <select>
+            <option value="Cash">Cash on Delivery</option>
+                <option value="Credit">Credit Card</option>
+                <option value="Debit">Debit Card</option>
+                <option value="Net Banking">Net Banking</option>
+                <option value="UPI">UPI</option>
+            </select>
+            <br/>
+            <input type="button" name="Button" value="GO Forth">
+            <br/>
+            <br/>
+            <br/>
+            <h3>Something to addon...</h3>
+            <textarea name="req" rows=15 cols=40>
+            </textarea>
+            <br/>
+            <br/>
+            <br/>
+            <h3>Custom File if you wanna add</h3>
+            <br/>
+            <input type="file" name="mayank's file"/>
         </form>
     </body>
     </html>
