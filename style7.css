@@ -1,0 +1,28 @@
+p > a:link{
+    font-family: cursive;
+    color:red;
+}
+p > a:hover{
+    font-family: monospace;
+    font-color:magenta;
+    font-size: 30px;
+}
+p  >a:active{
+   font-family: fantasy;
+    color:coral; 
+}
+p> a:visited
+{
+     font-family:sans-serif;
+    color:orange;
+}
+h3 >a{
+    font-family:sans-serif;
+    color:orange;
+    font-size: 30px;
+}
+span
+{
+    font-weight: bolder;
+    font-size: 35px;
+}
